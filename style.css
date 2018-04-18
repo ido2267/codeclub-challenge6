@@ -1,0 +1,58 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+}
+#eyes1 {
+    width: 200px;
+    position: absolute;
+    bottom: 350px;
+right:350px;
+}
+
+#mouth2 {
+    width: 100px;
+    position: absolute;
+    top: 350px;
+    left: 170px;
+}
+
+#hair1{
+    width: 300px;
+    position: absolute;
+    top: 3px;
+    left: 60px;
+}
+
+#bird{
+    width: 75px;
+    position: absolute;
+    top: 8px;
+    left: 60px;
+}
+#nose1{
+    width:50px;
+    position: absolute;
+    top: 240px;
+    left: 190px;
+}
+#headphones{ width:370px;
+    position: absolute;
+    top: 5px;
+    left:  20px;}
+#sunglasses    {
+  
+      width: 225px;
+    position: absolute;
+    bottom: 350px;
+right:330px;
+}
+
+
+#moustache{  width:170px;
+    position: absolute;
+    top: 270px;
+    left: 130px;
+  
+}
